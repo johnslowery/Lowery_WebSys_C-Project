@@ -1,0 +1,11 @@
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\bin\Debug\netcoreapp3.1\Lowery_MathTutorApp.exe
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\bin\Debug\netcoreapp3.1\Lowery_MathTutorApp.deps.json
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\bin\Debug\netcoreapp3.1\Lowery_MathTutorApp.runtimeconfig.json
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\bin\Debug\netcoreapp3.1\Lowery_MathTutorApp.runtimeconfig.dev.json
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\bin\Debug\netcoreapp3.1\Lowery_MathTutorApp.dll
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\bin\Debug\netcoreapp3.1\Lowery_MathTutorApp.pdb
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\obj\Debug\netcoreapp3.1\Lowery_MathTutorApp.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\obj\Debug\netcoreapp3.1\Lowery_MathTutorApp.AssemblyInfoInputs.cache
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\obj\Debug\netcoreapp3.1\Lowery_MathTutorApp.AssemblyInfo.cs
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\obj\Debug\netcoreapp3.1\Lowery_MathTutorApp.dll
+C:\Users\Jack\source\repos\Lowery_MathTutorApp\Lowery_MathTutorApp\obj\Debug\netcoreapp3.1\Lowery_MathTutorApp.pdb
